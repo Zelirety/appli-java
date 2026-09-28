@@ -1,2 +1,1 @@
-# appli-java
-Mon apli en java + IHM
+IHM + Java application to manage employees enrolement
